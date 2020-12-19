@@ -1,4 +1,4 @@
-# Spring IinjectionPoint Demo
+# Spring InjectionPoint Demo
 
 Demonstrates InjectionPoint Handling with Qualifier Annotations in Spring Framework.
 It is loosely based on Nicky Moelholm's demo at
