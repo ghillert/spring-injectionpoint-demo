@@ -1,5 +1,7 @@
 # Spring InjectionPoint Demo
 
+[![Build Status](https://github.com/ghillert/spring-injectionpoint-demo/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/ghillert/spring-injectionpoint-demo/actions)
+
 Demonstrates InjectionPoint Handling with Qualifier Annotations in Spring Framework.
 It is loosely based on Nicky Moelholm's demo at
 
